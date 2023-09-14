@@ -1,7 +1,7 @@
 # Hi, I'm Rasam 🤓👋
 
 ## About me: 
-I am a passionate **Full Stack Developer** who is always hungry to learn new things and implement cool features to create efficient and good-looking apps. I always try my best to stay consistent until I get the result I want. 
+Mid level Backend developer with crucial Front-end skills which makes me able to work on almost everything in the web development field. With a high motivation to learn new things and a problem-solving mindset, I am interested in fields where I can expand my expertise and contribute to creating efficient products.
 
 I'm good at helping/teaching others about what I know and I always try to create a good vibe place in anywhere I am with communication skills. 
 
