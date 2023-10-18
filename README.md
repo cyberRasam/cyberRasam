@@ -1,37 +1,11 @@
 # Hi, I'm Rasam 🤓👋
 
 ## About me: 
-Mid level Backend developer with crucial Front-end skills which makes me able to work on almost everything in the web development field. With a high motivation to learn new things and a problem-solving mindset, I am interested in fields where I can expand my expertise and contribute to creating efficient products.
+I'm a Backend developer with complementary Front-end skills which makes me able to work on almost everything in the web development field. With a high motivation to learn new things and a problem-solving mindset, I am interested in fields where I can expand my expertise and contribute to creating efficient products.
 
-I'm good at helping/teaching others about what I know and I always try to create a good vibe place in anywhere I am with communication skills. 
-
-Sometimes I am competitive (only for constructive approaches), and I like doing social activities and sports during my free time.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/B1CrvUCoMxhy8/giphy.gif" width="600" height="300" style="border-radius: 4px;"/>
-</div>
-
-
-
-## 🔭 I’m currently working on 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
 </div>
-
-**My own portfolio website** which you can find the link here soon ...
-
-**Finishing assignments of a backend bootcamp at *Re:coded* about "cron-jobs" and "Web-Socket".** 
-
-**Updating my CV and LinkedIn profile**
-
-## 👯 I’m looking to collaborate on ...
-
-**Back-end Development projects with Node.js, Express and MongoDB** 
-
-**Full-Stack Projects with MERN**
-
-**Front-end Development projects with React.js**
-
 
 ---------------
 # 📚 My Tech Stacks: 
