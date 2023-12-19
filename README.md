@@ -1,4 +1,4 @@
-# Hi, I'm Rasam 🤓👋
+# Hi, I'm Rasam 👋
 
 ## About me: 
 Backend developer with complementary Front-end skills which makes me able to work on almost everything in the web development field. With a high motivation to learn new things and a problem-solving mindset, I am interested in fields where I can expand my expertise and contribute to create efficient products.
