@@ -1,14 +1,8 @@
-# Hi, I'm Rasam 👋
+# Hi, it's Rasam 👋
 
-## About me: 
-Backend developer with complementary Front-end skills which makes me able to work on almost everything in the web development field. With a high motivation to learn new things and a problem-solving mindset, I am interested in fields where I can expand my expertise and contribute to create efficient products.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
-</div>
-
+Proficient in backend API development using Node.js/Express and frontend interface creation with React, adept at RESTful API design, database management, and version control. Ensuring smooth communication and data security, with a commitment to effective contribution in product development.
 ---------------
-# 📚 My Tech Stacks: 
+# 📚 Tech Stacks: 
 
 ### Web Design
 <div>
