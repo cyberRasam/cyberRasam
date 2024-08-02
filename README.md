@@ -76,15 +76,15 @@ Proficient in backend API development using Node.js/Express and frontend interfa
   <h3>:fire: My Stats :</h3>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=cansucreates&theme=synthwave" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=cyberrasam&theme=synthwave" alt="GitHub Streak" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cansucreates&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyberrasam&show_icons=true&theme=synthwave" alt="GitHub Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cansucreates&layout=compact&theme=synthwave" alt="Top Langs" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cyberrasam&layout=compact&theme=synthwave" alt="Top Langs" />
   </p>
 </div>
 
