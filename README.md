@@ -65,31 +65,18 @@ I excel at transforming innovative ideas into seamless products by combining eff
 # 📫 How to reach me 
 <div align=center> 
 	
-<span> 
+
 	
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rasam-rabiee/) 
-
-</span>
-
-<span> 
 	
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:rassamrl@gmail.com?)
-
-</span>
-
-<span> 
 	
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RasamRR)
 
-</span>
-	
-<span> 
-
  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rasamr)
 
-</span>
 
 </div>
 
