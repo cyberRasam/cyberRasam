@@ -1,6 +1,10 @@
 # Hi, I'm Rasam 👋
 
-I excel at transforming innovative ideas into seamless products by combining effective communication with technical expertise. With a strong background in Node.js, MongoDB, AWS, Linux, React.js, and TypeScript, I specialize in designing and implementing robust solutions that ensure optimal performance and reliability.
+Versatile software engineer with 4 years of experience building reliable, high-performing mobile and web applications. 
+Combines strong technical expertise with effective communication skills to turn ideas into functional, scalable products.
+Developed systems using Node.js, React, React Native, MongoDB, SQL, AWS, Docker and Linux, focusing on UI/UX design and backend integration.
+Adaptable and eager to learn new technologies, consistently delivering high-quality, production-ready solutions.
+
 
 ---
 # 📚 Tech Stacks: 
