@@ -1,8 +1,8 @@
 # Hi, I'm Rasam 👋
 
-Versatile software engineer with 4 years of experience building reliable, high-performing mobile and web applications. 
 Combines strong technical expertise with effective communication skills to turn ideas into functional, scalable products.
-Developed systems using Node.js, React, React Native, MongoDB, SQL, AWS, Docker and Linux, focusing on UI/UX design and backend integration.
+
+Developed systems using Node.js, React, React Native, MongoDB, SQL, AWS, Docker and Linux, focusing on developing seamless systems that ensure efficient coordination between front-end and back-end functionalities. 
 Adaptable and eager to learn new technologies, consistently delivering high-quality, production-ready solutions.
 
 
